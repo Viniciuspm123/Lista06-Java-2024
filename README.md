@@ -1,4 +1,4 @@
-📘 Lista 10 — Java (2024)
+📘 Lista 06 — Java (2024)
 
 Este repositório contém a Lista 10 de exercícios em Java, desenvolvida como parte das atividades práticas de programação.
 Os exercícios abordam lógica, estruturas de repetição, condicionais, manipulação de variáveis e outros fundamentos essenciais da linguagem Java.
